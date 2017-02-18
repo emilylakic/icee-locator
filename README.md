@@ -1,6 +1,6 @@
 # [ICEE Locator](http://github.com/emilylakic/iceelocator/)
 
-[The ICEE Locator](https://github.com/emilylakic/iceelocator) provides users the ability to find the nearest location carrying ICEE's based on their current location. The app was built by [Emily Lakic] (https://www.github.com/emilylakic) and [Mark Caldropoli] (https://www.github.com/markcaldropoli) and won the award for the **Best Reverse Engineering App**.
+[ICEE Locator](https://github.com/emilylakic/iceelocator) provides users the ability to find the nearest location carrying ICEE's based on their current location. The app was built by [Emily Lakic] (https://www.github.com/emilylakic) and [Mark Caldropoli] (https://www.github.com/markcaldropoli) and won the award for the **Best Reverse Engineering App**.
 
 ### How We Built It
 
@@ -18,6 +18,6 @@ Beginning our app development, using the limited resources of the Google Places 
 
 **Google is your best friend**. Literally. Look everything and anything up; **being able to find valuable information on code is a real skill in terms of computer science**. We learned more about Swift and API's and how to overall use XCode as a coding platform.
 
-### What's next for the ICEE Locator?
+### What's next for ICEE Locator?
 
 We have emailed the ICEE company for help concerning their 500 Internal Service Error in an effort to improve both their website's locator as well as further our own iOS app. As a continuation for our app in the future, we will try to make it in another programming language, such as Javascript or Objective-C.
