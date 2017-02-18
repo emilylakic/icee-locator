@@ -4,15 +4,15 @@
 
 ### How We Built It
 
-We built the ICEE Locator using Swift as our programming language and the software Xcode. We used the Google Places API to create a map displaying nearby locations of establishments carrying ICEE's.
+We built the ICEE Locator using the programming language **Swift** and the software **Xcode**. We used the **Google Places API** to create a map displaying nearby locations of establishments carrying ICEE's.
 
 ### Challenges We Ran Into
 
-We encountered difficulties with time constraints, converting data taken from the survey and sending it back to the website in the form of pie charts. However, we are working on this and are hoping to be done as soon as possible. 
+Beginning our app development, using the limited resources of the Google Places interface was the least of our problems. Integrating both Google Places API and Google Maps API to work simultaneously proved to be almost impossible after about 8 hours of coding. Attempting to obtain the current location of said user using the Google Maps API on Xcode outputted a return of 'nil' at every test run. Our second challenge was obtaining a post request using the software Postman from the ICEE Locator on the ICEE website, which output a 500 Internal Service Error unfixable on our part.
 
 ### Accomplishments That We're Proud Of 
 
-We are proud that we were able to further our skills in Python and web development.
+**As our first time using Swift and creating an iOS App**, we are both happy and completely surprised at the outcome of our app. While sharing our project with people at BrickHack, we were relieved to hear the **positive responses** and the numerous *"I love ICEE's!"*, *"I'd get it!"* and even *"I'd pay $5 dollars for that!"*.
 
 ### What We Learned
 
