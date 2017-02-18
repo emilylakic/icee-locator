@@ -16,4 +16,8 @@ Beginning our app development, using the limited resources of the Google Places 
 
 ### What We Learned
 
-In the beginning, we thought Python could just as easily be linked into HTML as an external stylesheet just like CSS. We were very wrong. After talking to other students and mentors at HackAE, we learned more about how to actually incorporate Python into web development. We converted our Python survey into an HTML survey after realizing that we could not add Python directly into HTML. It was a great learning experience, and a gateway to learning more about how to incorporate Pythong into an HTML file in its endless ways. 
+**Google is your best friend**. Literally. Look everything and anything up; **being able to find valuable information on code is a real skill in terms of computer science**. We learned more about Swift and API's and how to overall use XCode as a coding platform.
+
+### What's next for the ICEE Locator?
+
+We have emailed the ICEE company for help concerning their 500 Internal Service Error in an effort to improve both their website's locator as well as further our own iOS app. As a continuation for our app in the future, we will try to make it in another programming language, such as Javascript or Objective-C.
