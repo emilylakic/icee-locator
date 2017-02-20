@@ -4,7 +4,7 @@
 
 ### How We Built It
 
-We built the ICEE Locator using the programming language **Swift** and the software **Xcode**. We used the **Google Places API** to create a map displaying nearby locations of establishments carrying ICEE's.
+We built the ICEE Locator using the programming languages **Swift** and **Ruby**, and the software **Xcode**. We used the **Google Places API** to create a map displaying nearby locations of establishments carrying ICEE's.
 
 ### Challenges We Ran Into
 
